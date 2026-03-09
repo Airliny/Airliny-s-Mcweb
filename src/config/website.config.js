@@ -207,7 +207,7 @@ export const websiteConfig = {
 
   // 页脚配置
   footer: {
-    copyright: "© 2026-2027 晚晚服保留所有权利.",
+    copyright: "© 2026-2027 GA服保留所有权利.",
     customHtml: `
       <!-- 在这里插入自定义HTML代码，比如备案信息 -->
       <div style='display: flex; justify-content: center; align-items: center; width: 100%;'><a target='_blank' href='https://beian.miit.gov.cn/'><img src='/foot/foot-icp.svg' style='display: block;'></a></div>
@@ -329,11 +329,11 @@ export const websiteConfig = {
         title: "服务器信息",
         icon: "information",
         items: [
-          { label: "服务器类别", value: "物理机" },
-          { label: "CPU", value: "i9-13900kf" },
-          { label: "内存", value: "128GB DDR5" },  
+          { label: "服务器类别", value: "物理机+自建内网穿透" },
+          { label: "CPU", value: "E5-2680 v4" },
+          { label: "内存", value: "9GB DDR4" },  
           { label: "类型", value: "生存，生电，建筑" },
-          { label: "最大玩家", value: "100人" },
+          { label: "最大玩家", value: "25人" },
           { label: "在线时间", value: "7X24小时" }
         ]
       },
@@ -345,11 +345,11 @@ export const websiteConfig = {
         icon: "cog",
         items: [
           { label: "IPV4网络", value: "✓" },
-          { label: "IPV6网络", value: "✓" },
-          { label: "镜像服务器", value: "✓" },
-          { label: "双重备份", value: "✓" },
-          { label: "群服互通", value: "✓" },
-          { label: "联机工具提供", value: "✓" }
+          { label: "稳定网络7X24小时", value: "✓" },
+          { label: "存档云备份", value: "✓" },
+          { label: "持续维护", value: "✓" },
+          { label: "无管理", value: "✓" },
+          { label: "提供疑难解答", value: "✓" }
         ]
       },
       
@@ -359,9 +359,8 @@ export const websiteConfig = {
         title: "管理团队",
         icon: "shield-account",
         items: [
-          { label: "_YUTONG_", value: "腐竹-物理服主！" },
-          { label: "wanwan_jiean", value: "腐竹-技术和主要管理" },
-          { label: "CrazyPastor", value: "腐竹-不务正业" }
+          { label: "Ryzen", value: "腐竹-物理服主与稳定管理" },
+          { label: "Airliny", value: "腐竹-技术支持兼吉祥物！" }
         ]
       }
     },
@@ -375,7 +374,7 @@ export const websiteConfig = {
         {
           title: "友好相处",
           icon: "heart",
-          description: "尊重其他玩家，禁止任何形式的骚扰和歧视行为"
+          description: "尊重其他玩家，禁止任何形式的骚扰和歧视行为（尤其是喜欢看腿的那些）"
         },
         {
           title: "禁止作弊",
