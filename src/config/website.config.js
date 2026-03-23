@@ -401,7 +401,7 @@ export const websiteConfig = {
           icon: "qqchat",
           buttonText: "加入 QQ 群",
           buttonType: "secondary",
-          url: "https://qm.qq.com/q/mVvrLcbLvU"
+          url: "https://www.airliny.com/404.php"
         },
         {
           title: "邮箱",
@@ -409,7 +409,7 @@ export const websiteConfig = {
           icon: "email",
           buttonText: "发送邮件",
           buttonType: "secondary",
-          url: "mailto:me@wanfory.top"
+          url: "mailto:support@airliny.com"
         }
       ]
     },
