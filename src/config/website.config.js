@@ -346,7 +346,7 @@ export const websiteConfig = {
         items: [
           { label: "IPV4网络", value: "✓" },
           { label: "稳定网络7X24小时", value: "✓" },
-          { label: "存档云备份", value: "✓" },
+          { label: "存档稳定", value: "✓" },
           { label: "持续维护", value: "✓" },
           { label: "无管理", value: "✓" },
           { label: "提供疑难解答", value: "✓" }
@@ -409,7 +409,7 @@ export const websiteConfig = {
           icon: "email",
           buttonText: "发送邮件",
           buttonType: "secondary",
-          url: "mailto:support@airliny.com"
+          url: "mailto:me@airliny.com"
         }
       ]
     },
