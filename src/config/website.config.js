@@ -198,9 +198,10 @@ export const websiteConfig = {
   server: {
     // 页面显示的服务器地址
     displayAddress: "sv.airliny.com:21000",
+    displayAddress: "airliny.com",
     // API请求使用的服务器地址（可以不同）
-    apiAddress: "sv.airliny.com",
-    port: "21000",
+    apiAddress: "airliny.com",
+    port: "25565",
     version: "1.21.11",
     apiEndpoint: "https://api.mcstatus.io/v2/status/java",
   },
