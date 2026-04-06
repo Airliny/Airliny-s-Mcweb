@@ -198,7 +198,6 @@ export const websiteConfig = {
   server: {
     // 页面显示的服务器地址
     displayAddress: "sv.airliny.com:21000",
-    displayAddress: "airliny.com",
     // API请求使用的服务器地址（可以不同）
     apiAddress: "airliny.com",
     port: "25565",
@@ -208,7 +207,7 @@ export const websiteConfig = {
 
   // 页脚配置
   footer: {
-    copyright: "© 2026-2027 GA服保留所有权利.",
+    copyright: "© 2026 GA服保留所有权利.",
     customHtml: `
       <!-- 在这里插入自定义HTML代码，比如备案信息 -->
       <div style='display: flex; justify-content: center; align-items: center; width: 100%;'><a target='_blank' href='https://beian.miit.gov.cn/'><img src='/foot/foot-icp.svg' style='display: block;'></a></div>
