@@ -333,7 +333,7 @@ export const websiteConfig = {
           { label: "CPU", value: "E5-2680 v4" },
           { label: "内存", value: "9GB DDR4" },  
           { label: "类型", value: "生存，生电，建筑" },
-          { label: "最大玩家", value: "25人" },
+          { label: "最大玩家", value: "10人" },
           { label: "在线时间", value: "7X24小时" }
         ]
       },
@@ -345,10 +345,8 @@ export const websiteConfig = {
         icon: "cog",
         items: [
           { label: "IPV4网络", value: "✓" },
-          { label: "稳定网络7X24小时", value: "✓" },
-          { label: "存档稳定", value: "✓" },
-          { label: "持续维护", value: "✓" },
-          { label: "无管理", value: "✓" },
+          { label: "BGP网络延迟优化", value: "✓"},
+          { label: "国际大宽带网络", value: "✓" },
           { label: "提供疑难解答", value: "✓" }
         ]
       },
@@ -374,7 +372,7 @@ export const websiteConfig = {
         {
           title: "友好相处",
           icon: "heart",
-          description: "尊重其他玩家，禁止任何形式的骚扰和歧视行为（尤其是喜欢看腿的那些）"
+          description: "尊重其他玩家，禁止任何形式的骚扰和歧视行为"
         },
         {
           title: "禁止作弊",
