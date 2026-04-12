@@ -5,143 +5,98 @@
   "total_objectives": 9,
   "objectives": {
     "fzsd.module.scoreboard.display.activation": {
+      "display_name": "活跃时间",
       "display_slot": "sidebar",
       "player_count": 2,
       "player_scores": [
-        { "player": "liyue", "score": 5 },
-        { "player": "airliny", "score": 3 }
+        { "player": "liyue", "score": 12500 },
+        { "player": "airlinr", "score": 8400 }
       ],
-      "statistics": {
-        "total_players": 2,
-        "total_score": 8,
-        "average_score": 4,
-        "top_player": "liyue",
-        "top_score": 5
-      }
+      "statistics": { "total_players": 2, "total_score": 20900, "average_score": 10450, "top_player": "liyue", "top_score": 12500 }
     },
     "fzsd.module.scoreboard.display.aviating_distance": {
-      "display_slot": null,
+      "display_name": "飞行距离",
+      "display_slot": "sidebar",
       "player_count": 2,
       "player_scores": [
-        { "player": "liyue", "score": 1200 },
-        { "player": "airliny", "score": 850 }
+        { "player": "liyue", "score": 54201 },
+        { "player": "airlinr", "score": 32150 }
       ],
-      "statistics": {
-        "total_players": 2,
-        "total_score": 2050,
-        "average_score": 1025,
-        "top_player": "liyue",
-        "top_score": 1200
-      }
+      "statistics": { "total_players": 2, "total_score": 86351, "average_score": 43175, "top_player": "liyue", "top_score": 54201 }
     },
     "fzsd.module.scoreboard.display.damage_taken": {
-      "display_slot": null,
+      "display_name": "受伤害数",
+      "display_slot": "sidebar",
       "player_count": 2,
       "player_scores": [
-        { "player": "liyue", "score": 340 },
-        { "player": "airliny", "score": 410 }
+        { "player": "liyue", "score": 450 },
+        { "player": "airlinr", "score": 1205 }
       ],
-      "statistics": {
-        "total_players": 2,
-        "total_score": 750,
-        "average_score": 375,
-        "top_player": "airliny",
-        "top_score": 410
-      }
+      "statistics": { "total_players": 2, "total_score": 1655, "average_score": 827, "top_player": "airlinr", "top_score": 1205 }
     },
     "fzsd.module.scoreboard.display.death_count": {
-      "display_slot": null,
+      "display_name": "死亡次数",
+      "display_slot": "sidebar",
       "player_count": 2,
       "player_scores": [
         { "player": "liyue", "score": 2 },
-        { "player": "airliny", "score": 6 }
+        { "player": "airlinr", "score": 14 }
       ],
-      "statistics": {
-        "total_players": 2,
-        "total_score": 8,
-        "average_score": 4,
-        "top_player": "airliny",
-        "top_score": 6
-      }
+      "statistics": { "total_players": 2, "total_score": 16, "average_score": 8, "top_player": "airlinr", "top_score": 14 }
     },
     "fzsd.module.scoreboard.display.dig_count": {
-      "display_slot": "list",
-      "player_count": 2,
-      "player_scores": [
-        { "player": "liyue", "score": 150 },
-        { "player": "airliny", "score": 220 }
-      ],
-      "statistics": {
-        "total_players": 2,
-        "total_score": 370,
-        "average_score": 185,
-        "top_player": "airliny",
-        "top_score": 220
-      }
-    },
-    "fzsd.module.scoreboard.display.fishing_count": {
-      "display_slot": null,
-      "player_count": 2,
-      "player_scores": [
-        { "player": "liyue", "score": 12 },
-        { "player": "airliny", "score": 7 }
-      ],
-      "statistics": {
-        "total_players": 2,
-        "total_score": 19,
-        "average_score": 9.5,
-        "top_player": "liyue",
-        "top_score": 12
-      }
-    },
-    "fzsd.module.scoreboard.display.kill_count": {
+      "display_name": "方块挖掘",
       "display_slot": "sidebar",
       "player_count": 2,
       "player_scores": [
-        { "player": "liyue", "score": 30 },
-        { "player": "airliny", "score": 18 }
+        { "player": "liyue", "score": 8902 },
+        { "player": "airlinr", "score": 4531 }
       ],
-      "statistics": {
-        "total_players": 2,
-        "total_score": 48,
-        "average_score": 24,
-        "top_player": "liyue",
-        "top_score": 30
-      }
+      "statistics": { "total_players": 2, "total_score": 13433, "average_score": 6716, "top_player": "liyue", "top_score": 8902 }
+    },
+    "fzsd.module.scoreboard.display.fishing_count": {
+      "display_name": "钓鱼次数",
+      "display_slot": "sidebar",
+      "player_count": 2,
+      "player_scores": [
+        { "player": "liyue", "score": 124 },
+        { "player": "airlinr", "score": 56 }
+      ],
+      "statistics": { "total_players": 2, "total_score": 180, "average_score": 90, "top_player": "liyue", "top_score": 124 }
+    },
+    "fzsd.module.scoreboard.display.kill_count": {
+      "display_name": "玩家击杀",
+      "display_slot": "sidebar",
+      "player_count": 2,
+      "player_scores": [
+        { "player": "liyue", "score": 45 },
+        { "player": "airlinr", "score": 12 }
+      ],
+      "statistics": { "total_players": 2, "total_score": 57, "average_score": 28, "top_player": "liyue", "top_score": 45 }
     },
     "fzsd.module.scoreboard.display.placement_count": {
-      "display_slot": null,
+      "display_name": "放置数量",
+      "display_slot": "sidebar",
       "player_count": 2,
       "player_scores": [
-        { "player": "liyue", "score": 400 },
-        { "player": "airliny", "score": 520 }
+        { "player": "liyue", "score": 6700 },
+        { "player": "airlinr", "score": 3200 }
       ],
-      "statistics": {
-        "total_players": 2,
-        "total_score": 920,
-        "average_score": 460,
-        "top_player": "airliny",
-        "top_score": 520
-      }
+      "statistics": { "total_players": 2, "total_score": 9900, "average_score": 4950, "top_player": "liyue", "top_score": 6700 }
     },
     "fzsd.module.scoreboard.display.trade_count": {
-      "display_slot": null,
+      "display_name": "交易次数",
+      "display_slot": "sidebar",
       "player_count": 2,
       "player_scores": [
-        { "player": "liyue", "score": 9 },
-        { "player": "airliny", "score": 14 }
+        { "player": "liyue", "score": 89 },
+        { "player": "airlinr", "score": 210 }
       ],
-      "statistics": {
-        "total_players": 2,
-        "total_score": 23,
-        "average_score": 11.5,
-        "top_player": "airliny",
-        "top_score": 14
-      }
+      "statistics": { "total_players": 2, "total_score": 299, "average_score": 149, "top_player": "airlinr", "top_score": 210 }
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 18,
+    "total_players_across_objectives": 2,
     "objectives_found": [
       "fzsd.module.scoreboard.display.activation",
       "fzsd.module.scoreboard.display.aviating_distance",
