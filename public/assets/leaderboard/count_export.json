@@ -1,101 +1,120 @@
 {
   "export_time": "2026-04-12 16:38:10",
-  "source_file": "manual_input",
+  "source_file": "scoreboard.dat",
+  "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
   "objectives": {
     "fzsd.module.scoreboard.display.activation": {
-      "display_name": "活跃时间",
-      "display_slot": "sidebar",
-      "player_count": 2,
-      "player_scores": [
-        { "player": "wangchen_", "score": 4200 },
-        { "player": "airliny", "score": 3150 }
-      ],
-      "statistics": { "total_players": 2, "total_score": 7350, "average_score": 3675, "top_player": "wangchen_", "top_score": 4200 }
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
+      "statistics": {
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
+      }
     },
     "fzsd.module.scoreboard.display.aviating_distance": {
-      "display_name": "飞行距离",
-      "display_slot": "sidebar",
-      "player_count": 2,
-      "player_scores": [
-        { "player": "airliny", "score": 92500 },
-        { "player": "wangchen_", "score": 51200 }
-      ],
-      "statistics": { "total_players": 2, "total_score": 143700, "average_score": 71850, "top_player": "airliny", "top_score": 92500 }
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
+      "statistics": {
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
+      }
     },
     "fzsd.module.scoreboard.display.damage_taken": {
-      "display_name": "受伤害数",
-      "display_slot": "sidebar",
-      "player_count": 2,
-      "player_scores": [
-        { "player": "airliny", "score": 1420 },
-        { "player": "wangchen_", "score": 650 }
-      ],
-      "statistics": { "total_players": 2, "total_score": 2070, "average_score": 1035, "top_player": "airliny", "top_score": 1420 }
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
+      "statistics": {
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
+      }
     },
     "fzsd.module.scoreboard.display.death_count": {
-      "display_name": "死亡次数",
-      "display_slot": "sidebar",
-      "player_count": 2,
-      "player_scores": [
-        { "player": "airliny", "score": 18 },
-        { "player": "wangchen_", "score": 4 }
-      ],
-      "statistics": { "total_players": 2, "total_score": 22, "average_score": 11, "top_player": "airliny", "top_score": 18 }
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
+      "statistics": {
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
+      }
     },
     "fzsd.module.scoreboard.display.dig_count": {
-      "display_name": "方块挖掘",
-      "display_slot": "sidebar",
-      "player_count": 2,
-      "player_scores": [
-        { "player": "wangchen_", "score": 28400 },
-        { "player": "airliny", "score": 12600 }
-      ],
-      "statistics": { "total_players": 2, "total_score": 41000, "average_score": 20500, "top_player": "wangchen_", "top_score": 28400 }
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
+      "statistics": {
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
+      }
     },
     "fzsd.module.scoreboard.display.fishing_count": {
-      "display_name": "钓鱼次数",
-      "display_slot": "sidebar",
-      "player_count": 2,
-      "player_scores": [
-        { "player": "wangchen_", "score": 195 },
-        { "player": "airliny", "score": 82 }
-      ],
-      "statistics": { "total_players": 2, "total_score": 277, "average_score": 138.5, "top_player": "wangchen_", "top_score": 195 }
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
+      "statistics": {
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
+      }
     },
     "fzsd.module.scoreboard.display.kill_count": {
-      "display_name": "玩家击杀",
-      "display_slot": "sidebar",
-      "player_count": 2,
-      "player_scores": [
-        { "player": "wangchen_", "score": 64 },
-        { "player": "airliny", "score": 45 }
-      ],
-      "statistics": { "total_players": 2, "total_score": 109, "average_score": 54.5, "top_player": "wangchen_", "top_score": 64 }
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
+      "statistics": {
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
+      }
     },
     "fzsd.module.scoreboard.display.placement_count": {
-      "display_name": "放置数量",
-      "display_slot": "sidebar",
-      "player_count": 2,
-      "player_scores": [
-        { "player": "wangchen_", "score": 19200 },
-        { "player": "airliny", "score": 9800 }
-      ],
-      "statistics": { "total_players": 2, "total_score": 29000, "average_score": 14500, "top_player": "wangchen_", "top_score": 19200 }
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
+      "statistics": {
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
+      }
     },
     "fzsd.module.scoreboard.display.trade_count": {
-      "display_name": "交易次数",
-      "display_slot": "sidebar",
-      "player_count": 2,
-      "player_scores": [
-        { "player": "airliny", "score": 610 },
-        { "player": "wangchen_", "score": 280 }
-      ],
-      "statistics": { "total_players": 2, "total_score": 890, "average_score": 445, "top_player": "airliny", "top_score": 610 }
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
+      "statistics": {
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
+      }
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 2,
+    "total_players_across_objectives": 0,
     "objectives_found": [
       "fzsd.module.scoreboard.display.activation",
       "fzsd.module.scoreboard.display.aviating_distance",
