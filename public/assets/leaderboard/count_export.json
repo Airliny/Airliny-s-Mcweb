@@ -5,116 +5,143 @@
   "total_objectives": 9,
   "objectives": {
     "fzsd.module.scoreboard.display.activation": {
-      "display_slot": null,
-      "player_count": 0,
-      "player_scores": [],
+      "display_slot": "sidebar",
+      "player_count": 2,
+      "player_scores": [
+        { "player": "liyue", "score": 5 },
+        { "player": "airliny", "score": 3 }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 2,
+        "total_score": 8,
+        "average_score": 4,
+        "top_player": "liyue",
+        "top_score": 5
       }
     },
     "fzsd.module.scoreboard.display.aviating_distance": {
       "display_slot": null,
-      "player_count": 0,
-      "player_scores": [],
+      "player_count": 2,
+      "player_scores": [
+        { "player": "liyue", "score": 1200 },
+        { "player": "airliny", "score": 850 }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 2,
+        "total_score": 2050,
+        "average_score": 1025,
+        "top_player": "liyue",
+        "top_score": 1200
       }
     },
     "fzsd.module.scoreboard.display.damage_taken": {
       "display_slot": null,
-      "player_count": 0,
-      "player_scores": [],
+      "player_count": 2,
+      "player_scores": [
+        { "player": "liyue", "score": 340 },
+        { "player": "airliny", "score": 410 }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 2,
+        "total_score": 750,
+        "average_score": 375,
+        "top_player": "airliny",
+        "top_score": 410
       }
     },
     "fzsd.module.scoreboard.display.death_count": {
       "display_slot": null,
-      "player_count": 0,
-      "player_scores": [],
+      "player_count": 2,
+      "player_scores": [
+        { "player": "liyue", "score": 2 },
+        { "player": "airliny", "score": 6 }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 2,
+        "total_score": 8,
+        "average_score": 4,
+        "top_player": "airliny",
+        "top_score": 6
       }
     },
     "fzsd.module.scoreboard.display.dig_count": {
-      "display_slot": null,
-      "player_count": 0,
-      "player_scores": [],
+      "display_slot": "list",
+      "player_count": 2,
+      "player_scores": [
+        { "player": "liyue", "score": 150 },
+        { "player": "airliny", "score": 220 }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 2,
+        "total_score": 370,
+        "average_score": 185,
+        "top_player": "airliny",
+        "top_score": 220
       }
     },
     "fzsd.module.scoreboard.display.fishing_count": {
       "display_slot": null,
-      "player_count": 0,
-      "player_scores": [],
+      "player_count": 2,
+      "player_scores": [
+        { "player": "liyue", "score": 12 },
+        { "player": "airliny", "score": 7 }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 2,
+        "total_score": 19,
+        "average_score": 9.5,
+        "top_player": "liyue",
+        "top_score": 12
       }
     },
     "fzsd.module.scoreboard.display.kill_count": {
-      "display_slot": null,
-      "player_count": 0,
-      "player_scores": [],
+      "display_slot": "sidebar",
+      "player_count": 2,
+      "player_scores": [
+        { "player": "liyue", "score": 30 },
+        { "player": "airliny", "score": 18 }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 2,
+        "total_score": 48,
+        "average_score": 24,
+        "top_player": "liyue",
+        "top_score": 30
       }
     },
     "fzsd.module.scoreboard.display.placement_count": {
       "display_slot": null,
-      "player_count": 0,
-      "player_scores": [],
+      "player_count": 2,
+      "player_scores": [
+        { "player": "liyue", "score": 400 },
+        { "player": "airliny", "score": 520 }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 2,
+        "total_score": 920,
+        "average_score": 460,
+        "top_player": "airliny",
+        "top_score": 520
       }
     },
     "fzsd.module.scoreboard.display.trade_count": {
       "display_slot": null,
-      "player_count": 0,
-      "player_scores": [],
+      "player_count": 2,
+      "player_scores": [
+        { "player": "liyue", "score": 9 },
+        { "player": "airliny", "score": 14 }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 2,
+        "total_score": 23,
+        "average_score": 11.5,
+        "top_player": "airliny",
+        "top_score": 14
       }
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 0,
+    "total_players_across_objectives": 18,
     "objectives_found": [
       "fzsd.module.scoreboard.display.activation",
       "fzsd.module.scoreboard.display.aviating_distance",
