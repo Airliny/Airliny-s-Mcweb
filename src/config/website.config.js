@@ -2,10 +2,10 @@
 export const websiteConfig = {
   // 网站基本信息
   site: {
-    title: "RA服-航空学限定",
+    title: "RA服-航空学",
     description: "欢迎来到RA服，探索无限可能的方块世界！",
     keywords: "Minecraft,服务器,我的世界,Java版,生存,创造,生电",
-    author: "RA服-航空学限定",
+    author: "RA服-航空学",
     language: "zh-CN"
   },
 
@@ -201,7 +201,7 @@ export const websiteConfig = {
     // API请求使用的服务器地址（可以不同）
     apiAddress: "sv.airliny.com",
     port: "21000",
-    version: "1.21.11",
+    version: "1.21.1",
     apiEndpoint: "https://api.mcstatus.io/v2/status/java",
   },
 
